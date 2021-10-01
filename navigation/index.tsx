@@ -56,8 +56,8 @@ function RootNavigator() {
           title: 'WhatsApp',
           headerRight: () => (
             <View style={{flexDirection: 'row', width: 60, justifyContent: 'space-between', marginRight: 10,}}>
-              <Octicons name="search" size={24} color={'white'} />
-              <MaterialCommunityIcons name="dots-vertical" size={24} color={'white'} /> 
+              <Octicons name="search" size={22} color={'white'} />
+              <MaterialCommunityIcons name="dots-vertical" size={22} color={'white'} /> 
             </View>
           )
         }}
